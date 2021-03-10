@@ -330,7 +330,7 @@
             <p class="text-sm leading-tight">{{ friend.handle }}</p>
           </div>
           <button
-            class="ml-auto text-sm text-blue py-1 px-4 rounded-full border-2 border-blue"
+            class="ml-auto text-sm text-blue py-1 px-4 rounded-full border-2 border-blue hidden lg:block"
           >
             Follow
           </button>
